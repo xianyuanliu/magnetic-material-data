@@ -1,6 +1,6 @@
 # Magnetic Material Data
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/xianyuanliu/magnetic-material-data/blob/main/RE_Free_Materials_Prediction_Tutorial.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xianyuanliu/magnetic-material-data/blob/main/RE_Free_Materials_Prediction_Tutorial.ipynb)
 
 This repository accompanies an educational demo for magnetic material property prediction. It provides materials to support teaching and experimentation.
 
